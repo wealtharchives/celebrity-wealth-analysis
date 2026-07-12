@@ -32,10 +32,7 @@ This repository documents research and analysis published at WealthArchives.com.
 
 → [Read the comprehensive breakdown on how celebrities build their fortunes](https://medium.com/@wealtharchives/how-celebrities-actually-build-their-wealth-the-real-story-behind-the-numbers-ed5ee899822a)
 
-→ [Celebrity Net Worth Database](https://wealtharchives.com/)
-
 ## Resources
 
-* **WealthArchives.com** — Individual celebrity net worth profiles and breakdowns
 * **Medium** — [Explore our in-depth financial essays and wealth guides](https://medium.com/@wealtharchives)
 * **Substack** — [Subscribe to our behind-the-scenes financial newsletter](https://wealtharchives.substack.com/)
